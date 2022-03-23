@@ -1,11 +1,14 @@
-import java.util.Scanner;
+
 
 public class CarritoDeCompras {
-    public static void main(String[] args){
-        int [] carrito = new int[15];
+    public static void main(String[] args) {
 
-        }
+        int[] carrito;
+         carrito = new int [20];
+        for (int i = 0; i < carrito.length; i++);{
 
+
+    }
 
     }
 
